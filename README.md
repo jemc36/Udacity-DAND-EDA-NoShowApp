@@ -34,9 +34,9 @@ The project is using Python3. The packages in this project include numpy, pandas
 * Descriptive statistics (Risk Ratio for binomial variables)
 
 ### Report
-* NoShowApp.ipynb  
-* NoShowApp.pdf  
-* NoShowApp.html  
+* [NoShowApp.ipynb](https://github.com/jemc36/Udacity-DAND-EDA-NoShowApp/blob/master/NoShowApp.ipynb)  
+* [NoShowApp.pdf](https://github.com/jemc36/Udacity-DAND-EDA-NoShowApp/blob/master/NoShowApp.pdf)  
+* [NoShowApp.html](https://github.com/jemc36/Udacity-DAND-EDA-NoShowApp/blob/master/NoShowApp.html)  
 
 ### Feedback
-* Udacity Reviews
+* [Udacity Reviews](https://github.com/jemc36/Udacity-DAND-EDA-NoShowApp/blob/master/Udacity%20Reviews.pdf)
