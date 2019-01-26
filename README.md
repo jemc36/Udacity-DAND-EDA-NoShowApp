@@ -6,6 +6,7 @@ The project includes the following contents:
 * Data Wrangling
 * Exploratory Data analysis
 * Conclusions
+* Proporsal for the next step
 * References
 
 ### Language and Package
